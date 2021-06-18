@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+#searchForm input {
+  width: 50% !important;
+}
+
+.searchContainer {
+  padding: 25px 50px;
+}
+
+.tableContainer {
+  padding: 25px 50px;
+}
+/*# sourceMappingURL=home.css.map */
